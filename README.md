@@ -1,4 +1,4 @@
-# AI Camera with the DFRobot ESP32-S3 AI Camera and OpenAI
+# AI Camera with the DFRobot ESP32-S3 and OpenAI
 
 An ESP32-S3 camera that tells you what it sees. Press a button and the camera takes a
 picture, sends it to an OpenAI vision model, and speaks the answer through its own
