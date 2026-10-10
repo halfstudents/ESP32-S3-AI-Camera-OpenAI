@@ -1,0 +1,19 @@
+# Your private Wi-Fi and OpenAI credentials. Never commit this file.
+secrets.h
+**/secrets.h
+.env
+*.env
+
+# Build output
+build/
+.pio/
+*.bin
+*.elf
+*.map
+
+# Editor and OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
